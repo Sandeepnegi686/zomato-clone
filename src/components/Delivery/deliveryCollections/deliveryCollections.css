@@ -1,0 +1,9 @@
+.delivery-collection {
+  background-color: #f8f8f8;
+  padding: 4rem 0;
+}
+
+.commonHeading {
+  color: var(--heading-text);
+  margin-bottom: 32px;
+}

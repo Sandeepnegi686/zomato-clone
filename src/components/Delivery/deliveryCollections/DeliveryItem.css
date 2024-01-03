@@ -1,0 +1,31 @@
+.delivery-item-cover {
+  width: auto;
+  height: auto;
+  margin: 0 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: none;
+  border: none;
+  transition: opacity 0.25s ease 0s, transform 0.25s ease 0s;
+}
+.delivery-img-cover {
+  text-align: center;
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 3px 12px;
+}
+.delivery-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.delivery-item-cover p {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 15px;
+  color: #363636;
+}

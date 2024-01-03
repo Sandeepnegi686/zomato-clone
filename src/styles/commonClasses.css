@@ -1,0 +1,24 @@
+.max-width {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.absolute-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cur-po {
+  cursor: pointer;
+}
+.commonHeading {
+  font-size: 30px;
+}
+.slick-next:before,
+.slick-prev::before {
+  color: var(--zomato-gray);
+  top: 4px;
+}
+.slick-next,
+.slick-prev {
+  top: 37%;
+}

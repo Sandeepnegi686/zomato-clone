@@ -1,0 +1,14 @@
+#root {
+  --primary-box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+  --border-white: rgb(232, 232, 232);
+  --primary-bg: white;
+  --zomato-gray: rgb(108, 108, 108);
+  --zomato-red: rgb(255, 126, 139);
+  --grey: 0.05rem solid rgb(207, 207, 207);
+  --inactive-tab: #696969;
+  --inactive-color: #f8f8f8;
+  --heading-text: #1c1c1c;
+  --tag-red: #d92662;
+  --tag-blue: #256fef;
+  --tag-green: #267e3e;
+}
