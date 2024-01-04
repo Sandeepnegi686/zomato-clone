@@ -3,7 +3,7 @@ import "./tabOption.css";
 const tabs = [
   {
     id: 1,
-    name: "Delivery Man",
+    name: "Delivery",
     active_img:
       "https://b.zmtcdn.com/data/o2_assets/c0bb85d3a6347b2ec070a8db694588261616149578.png?output-format=webp",
     backdrop: "rgb(252, 238, 192)",
